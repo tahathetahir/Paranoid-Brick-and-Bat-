@@ -13,6 +13,12 @@ paranoid/
 ├── mygraphics.h      # Custom graphics rendering (rectangles, ellipses, text, lines)
 ├── myconsole.h       # Console input handling
 
+## Tech Stack
+Language: C++
+Graphics: Custom mygraphics.h and myconsole.h libraries (Windows GDI-based rendering)
+Platform: Windows
+Dependencies: Windows.h, conio.h, cmath, fstream, time.h
+
 ## Controls of Game 
 | Key  | Action |
 | ------------- | ------------- |
