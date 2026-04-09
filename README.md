@@ -2,7 +2,7 @@
 Paranoid is an arcade game built in C++ inspired by the classic Breakout genre. The game features smooth ball physics, multiple brick types, power-ups, and progressively increasing difficulty. This code relies completely on hard coded logic to render graphics thus exploring the fundamental logic of graphic and rendering. </br>
 
 ## Graphics 
-This project employs graphics and console libraries that are also custom made. The aim was to understand the core dynamics and fundamentals of rendering logic from scratch without the use of pre-defined libraries. In simpler words, the entire game is made with circles and rectangles of different sizes, rendered programmatically across screen. Certain techniques have been employed to create the simulate motion of ball and breaking of bricks.  </br>
+This project employs graphics and console libraries that are also custom made. The aim was to understand the core dynamics and fundamentals of rendering logic from scratch without the use of pre-defined libraries. In simpler words, the entire game is made with circles and rectangles of different sizes, rendered programmatically across screen. Certain techniques have been employed to create the simulate motion of ball and breaking of bricks. Graphics Libraries are implemented using C language tools. </br>
 
 ## Project Structure
 paranoid/ </br>
